@@ -1,8 +1,8 @@
 class Semtest < Formula
   desc "Semantic testing for codebases using LLM CLIs"
   homepage "https://github.com/westopp/semtest"
-  url "https://registry.npmjs.org/@westopp/semtest/-/semtest-0.1.5.tgz"
-  sha256 "0a428c850c74fdaa688a593504099abc999cfbf59c720970c3edf5a4a83597d2"
+  url "https://registry.npmjs.org/@westopp/semtest/-/semtest-0.2.0.tgz"
+  sha256 "c242bd8c978d68a27b744ccc466cc2c75afad7a98134e153234daac4d82a89b1"
   license "MIT"
 
   depends_on "node"
